@@ -1,3 +1,6 @@
+
+OTP is 1234 is constant please enter 1234 to navigate further.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
